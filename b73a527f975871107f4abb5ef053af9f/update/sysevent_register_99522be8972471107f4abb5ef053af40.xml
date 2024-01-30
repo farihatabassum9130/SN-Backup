@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <caller_access/>
+        <description>Event created.</description>
+        <event_name>x_1068059_liaison.incident.resolved.chan</event_name>
+        <fired_by>Business Rules</fired_by>
+        <queue/>
+        <suffix>incident.resolved.change.close</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-06 10:35:37</sys_created_on>
+        <sys_id>99522be8972471107f4abb5ef053af40</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_1068059_liaison.incident.resolved.chan</sys_name>
+        <sys_package display_value="Liaison Agency" source="x_1068059_liaison">b73a527f975871107f4abb5ef053af9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Liaison Agency">b73a527f975871107f4abb5ef053af9f</sys_scope>
+        <sys_update_name>sysevent_register_99522be8972471107f4abb5ef053af40</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-06 10:36:03</sys_updated_on>
+        <table>incident</table>
+    </sysevent_register>
+</record_update>

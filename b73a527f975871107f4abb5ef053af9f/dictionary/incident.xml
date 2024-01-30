@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="all_tables.query_hints=true,email_client=true,hasLabels=true,hasWorkflow=true,live_feed=true" audit="true" db_object_id="6c8c004724b021108c8bc6863d3fad1c" extends="task" label="Incident" max_length="40" name="incident" text_index="true" type="collection">
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Agency" max_length="32" name="x_1068059_liaison_agency" reference="x_1068059_liaison_liaison_agency" type="reference"/>
+    </element>
+</database>

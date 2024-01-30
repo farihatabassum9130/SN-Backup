@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmn_schedule">
+    <cmn_schedule action="INSERT_OR_UPDATE">
+        <calendar_name>Service Desk Support: David Loo: Secondary</calendar_name>
+        <description/>
+        <document>cmn_rota_member</document>
+        <document_key>c07e9ba8972471107f4abb5ef053aff1</document_key>
+        <is_legacy_schedule>true</is_legacy_schedule>
+        <label>Service Desk Support: David Loo: Secondary</label>
+        <name>Service Desk Support: David Loo: Secondary</name>
+        <parent display_value="Morning">823a1b64972471107f4abb5ef053afb5</parent>
+        <plural_label/>
+        <read_only>true</read_only>
+        <sys_class_name>cmn_schedule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-06 10:16:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cc7e9ba8972471107f4abb5ef053aff2</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Service Desk Support: David Loo: Secondary</sys_name>
+        <sys_package display_value="Liaison Agency" source="x_1068059_liaison">b73a527f975871107f4abb5ef053af9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Liaison Agency">b73a527f975871107f4abb5ef053af9f</sys_scope>
+        <sys_update_name>cmn_schedule_cc7e9ba8972471107f4abb5ef053aff2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-06 10:18:21</sys_updated_on>
+        <time_zone>GMT</time_zone>
+        <type>rotation</type>
+    </cmn_schedule>
+</record_update>

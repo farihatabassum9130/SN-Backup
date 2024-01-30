@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="94f332c4976431107f4abb5ef053af83" sys_domain="global" table="x_1068059_liaison_liaison_agency" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-04 17:54:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>58f3b6c4976431107f4abb5ef053af58</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1068059_liaison_liaison_agency" name="x_1068059_liaison_liaison_agency" sys_domain="global" view="e28332c4976431107f4abb5ef053af77">94f332c4976431107f4abb5ef053af83</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1068059_liaison_liaison_agency" sys_domain="global" view="e28332c4976431107f4abb5ef053af77">ea8332c4976431107f4abb5ef053af7b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-04 17:54:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-04 17:54:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1cf3b6c4976431107f4abb5ef053af59</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1068059_liaison_liaison_agency" name="x_1068059_liaison_liaison_agency" sys_domain="global" view="e28332c4976431107f4abb5ef053af77">94f332c4976431107f4abb5ef053af83</sys_ui_form>
+            <sys_ui_section caption="Location Details" display_value="Location Details" name="x_1068059_liaison_liaison_agency" sys_domain="global" view="e28332c4976431107f4abb5ef053af77">10f3b6c4976431107f4abb5ef053af59</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-04 17:54:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1068059_liaison_liaison_agency</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-04 17:54:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>94f332c4976431107f4abb5ef053af83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1068059_liaison_liaison_agency</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Liaison Agency" source="x_1068059_liaison">b73a527f975871107f4abb5ef053af9f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Liaison Agency">b73a527f975871107f4abb5ef053af9f</sys_scope>
+            <sys_update_name>sys_ui_form_sections_94f332c4976431107f4abb5ef053af83</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-04 17:54:05</sys_updated_on>
+            <sys_user/>
+            <view display_value="Advanced Details View" name="advanced_details_view">e28332c4976431107f4abb5ef053af77</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

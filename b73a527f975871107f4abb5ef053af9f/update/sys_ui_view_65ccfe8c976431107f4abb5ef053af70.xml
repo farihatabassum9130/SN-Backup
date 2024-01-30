@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>basic_details</name>
+        <roles>x_1068059_liaison.liaison_agency_viewer</roles>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-04 18:32:41</sys_created_on>
+        <sys_id>65ccfe8c976431107f4abb5ef053af70</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Basic Details</sys_name>
+        <sys_package display_value="Liaison Agency" source="x_1068059_liaison">b73a527f975871107f4abb5ef053af9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Liaison Agency">b73a527f975871107f4abb5ef053af9f</sys_scope>
+        <sys_update_name>sys_ui_view_65ccfe8c976431107f4abb5ef053af70</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-04 19:02:56</sys_updated_on>
+        <title>Basic Details</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

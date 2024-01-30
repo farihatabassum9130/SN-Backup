@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true,hasWorkflow=true,live_feed=true" audit="true" db_object_id="c58c404724b021108c8bc6863d3fad71" extends="task" label="Change Request" max_length="40" name="change_request" text_index="true" type="collection">
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Agency" max_length="32" name="x_1068059_liaison_agency" reference="x_1068059_liaison_liaison_agency" type="reference"/>
+    </element>
+</database>

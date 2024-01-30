@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <role display_value="x_1068059_liaison.liaison_agency_manager" name="x_1068059_liaison.liaison_agency_manager">7b32034497a431107f4abb5ef053afbf</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-04 18:56:51</sys_created_on>
+        <sys_id>a342434497a431107f4abb5ef053afdc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7b32034497a431107f4abb5ef053afbf</sys_name>
+        <sys_package display_value="Liaison Agency" source="x_1068059_liaison">b73a527f975871107f4abb5ef053af9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Liaison Agency">b73a527f975871107f4abb5ef053af9f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_a342434497a431107f4abb5ef053afdc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-04 18:56:51</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

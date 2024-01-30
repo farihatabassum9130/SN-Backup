@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9f3a3514972031107f4abb5ef053afc5" extends="sys_import_set_row" label="Imp Tmpl X 1068059 Liaison Liaison Agency" max_length="40" name="u_imp_tmpl_x_1068059_liaison_liaison_agency" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_active" label="Active" max_length="40" name="u_active" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_agency_email" label="Agency email" max_length="40" name="u_agency_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_companies" label="Companies" max_length="97" name="u_companies" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_location" label="Location" max_length="40" name="u_location" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_manager" label="Manager" max_length="40" name="u_manager" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_managing_group" label="Managing group" max_length="48" name="u_managing_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_name" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_number" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_primary_contact" label="Primary contact" max_length="40" name="u_primary_contact" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_secondary_contact" label="Secondary contact" max_length="40" name="u_secondary_contact" type="string"/>
+    </element>
+</database>
